@@ -1,6 +1,4 @@
 # Project_Ego4D_NLQ_Benchmark
-https://colab.research.google.com/drive/1RV0TctgCQRIphn3JHshZk4gBt60szV3q?usp=sharing
-
 This project explores the use of natural language queries
 for egocentric video understanding, leveraging the exten-
 sive Ego4D dataset and its NLQ benchmark task. Our work
@@ -26,3 +24,6 @@ vision-language model, Video-LLaVA. This project demon-
 strates progress towards developing an augmented reality
 assistant capable of interpreting daily-life egocentric videos
 and responding to queries about past activities.
+
+https://colab.research.google.com/drive/1RV0TctgCQRIphn3JHshZk4gBt60szV3q?usp=sharing
+
